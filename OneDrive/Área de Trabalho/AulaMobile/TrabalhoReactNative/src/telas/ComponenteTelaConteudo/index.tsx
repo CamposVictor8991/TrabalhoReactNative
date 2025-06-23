@@ -71,7 +71,9 @@ const ComponenteTelaConteudo = () => {
           onPress={() => handleButtonPress('Postagem')}
         >
           <Text style={styles.menuIcon}>📦</Text>
-          <Text style={styles.menuText}>Postagem</Text>
+          <Text style={styles.menuText}>Postagem
+            
+          </Text>
         </TouchableOpacity>
 
         <TouchableOpacity 
